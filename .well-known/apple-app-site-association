@@ -3,7 +3,7 @@
       "details": [
            {
              "appIDs": [ "RNC6JK7P2F.com.incube.kayefapp" ],
-             "paths": ["*"]
+             "paths": [ "*" ]
            }
        ]
    },
